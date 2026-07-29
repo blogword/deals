@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/</loc>
+        <lastmod>2026-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Category Sections -->
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#wordpress-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#web-hosting-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#email-marketing-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#utility-productivity-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#seo-tool-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#ai-writing-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#design-website-builder-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://blackfriday.onlinedecoded.com/#vpn-security-deals</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
