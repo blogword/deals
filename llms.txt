@@ -1,0 +1,219 @@
+# Black Friday Deals for Bloggers 2026
+
+## Site Overview
+- **URL**: https://blackfriday.onlinedecoded.com/
+- **Title**: Black Friday Deals for Bloggers 2026 — Save Up to 99%
+- **Description**: 105 hand-picked Black Friday 2026 deals for bloggers: hosting, WordPress, SEO, AI writing, marketing, design & VPN tools — all in one place.
+- **Total Deals**: 105
+- **Categories**: 8
+- **Max Discount**: 99%
+- **Last Updated**: July 30, 2026
+
+## Category Structure
+
+### 1. WordPress Deals (32 deals)
+Plugins, page builders, forms, and themes to run and grow your WordPress site.
+
+**Products:**
+- Link Whisper - 75% OFF - AI-powered internal linking plugin
+- Monsterinsights - 70% OFF - Google Analytics plugin for WordPress
+- Pretty Links - 70% OFF - Affiliate link cloaking and tracking
+- WP Mail SMTP - 70% OFF - Email deliverability fix for WordPress
+- WPForms - 70% OFF - Beginner-friendly form builder
+- Formidable Forms - 65% OFF - Advanced form builder for calculators and quizzes
+- Memberpress - 65% OFF - Membership and subscription plugin
+- Rafflepress - 65% OFF - Giveaway and contest plugin
+- Seedprod - 65% OFF - Landing page and theme builder
+- Themeisle - 65% OFF - Neve theme and Otter Blocks
+- Thrive Themes - 60% OFF - Conversion-focused WordPress toolkit
+- Optinmonster - 55% OFF - Popup and lead-gen toolkit
+- Oceanwp - 55% OFF - Multi-purpose WordPress theme
+- WP Adminify - 50% OFF - WordPress admin dashboard customizer
+- Astra Theme - 50% OFF - Fast, popular WordPress theme
+- Cartflows - 50% OFF - WooCommerce sales funnel builder
+- Elegant Themes - 50% OFF - Divi theme and visual builder
+- Elementor - 50% OFF - WordPress page builder
+- Gravity Forms - 50% OFF - Enterprise form plugin
+- Social Snap - 40% OFF - Social media plugin for WordPress
+- Aawp - 40% OFF - Amazon affiliate plugin
+- Crocoblock - 40% OFF - JetPlugins suite for Elementor
+- Social Warfare - 40% OFF - Social share buttons
+- Themify - 40% OFF - WordPress themes and Builder plugin
+- WP Table Builder - 30% OFF - Drag-and-drop table builder
+- Convert Pro - 30% OFF - Lead generation plugin
+- Novashare - 30% OFF - Lightweight social sharing
+- Perfmatters - 30% OFF - WordPress performance plugin
+- WP Rocket - 25% OFF - Caching and performance plugin
+- Beaver Builder - 25% OFF - Front-end page builder
+- Generatepress - 20% OFF - Lightweight WordPress theme
+- Updraftplus - 20% OFF - WordPress backup plugin
+
+### 2. Web Hosting Deals (14 deals)
+From shared hosting to fully managed WordPress hosting.
+
+**Products:**
+- WPX Hosting - 99% OFF - Premium managed WordPress hosting
+- A2 Hosting - 85% OFF - High-performance hosting with Turbo Servers
+- Greengeeks - 83% OFF - Eco-friendly web hosting
+- Chemicloud - 82% OFF - Managed cloud hosting
+- Hostarmada - 82% OFF - Cloud SSD hosting
+- Scala Hosting - 76% OFF - Managed cloud VPS with SPanel
+- Interserver - 75% OFF - Independent hosting with price-lock
+- WP Engine - 75% OFF - Enterprise managed WordPress hosting
+- AccuWeb Hosting - 50% OFF - Windows and Linux hosting
+- Contabo - 50% OFF - Budget VPS and dedicated servers
+- Kinsta - 30% OFF - Premium managed WordPress on Google Cloud
+- Porkbun - Up to 40% OFF - Domain registrar with free WHOIS privacy
+- Pressidium - Up to 50% OFF - Enterprise WordPress hosting
+- Namecheap - Up to 50% OFF - Domain registrar and web hosting
+
+### 3. Email & Marketing Deals (14 deals)
+Funnels, CRM, email marketing, and live chat.
+
+**Products:**
+- Passion.io - 70% OFF - No-code platform for creators
+- Clickfunnels - 80% OFF - Sales funnel builder
+- Pabbly - 75% OFF - Business automation suite
+- Activecampaign - 50% OFF - Marketing automation and CRM
+- Getresponse - 40% OFF - Email marketing with webinars
+- Systeme.io - 40% OFF - All-in-one marketing platform
+- Moosend - 35% OFF - Email marketing and automation
+- Aweber - 33% OFF - Email marketing service
+- Convertkit - 30% OFF - Email marketing for creators
+- Hunter - 30% OFF - Email finder and verifier
+- Keap - 30% OFF - Small-business CRM
+- Livechat - 30% OFF - Live chat and help desk
+- Livestorm - Up to 30% OFF - Video engagement platform for webinars
+- Podia - Up to 20% OFF - Sell digital products and courses
+
+### 4. Utility & Productivity Deals (10 deals)
+Data recovery, cloud storage, PDF tools, and software.
+
+**Products:**
+- Appsumo - 85% OFF - Lifetime software deals
+- Stellar - 82% OFF - Data recovery software
+- Movavi - 80% OFF - Video and photo editing
+- pCloud - 80% OFF - Encrypted cloud storage
+- Wondershare PDFelement - 79% OFF - PDF editor
+- EaseUS - 60% OFF - Data recovery and backup
+- Awario - 50% OFF - Social media monitoring
+- Debutify - 25% OFF - Shopify theme
+- Mindmanager - Up to 50% OFF - Mind-mapping software
+- Parallels - Up to 50% OFF - Virtualization software for Mac
+
+### 5. SEO Tool Deals (9 deals)
+Keyword research, rank tracking, and site audit tools.
+
+**Products:**
+- SEO PowerSuite - 82% OFF - Desktop SEO software bundle
+- SE Ranking - 40% OFF - All-in-one SEO platform
+- Serpstat - 40% OFF - SEO growth platform
+- TubeBuddy - 40% OFF - YouTube SEO toolkit
+- KWFinder - 35% OFF - Keyword research tool
+- Seopress - 33% OFF - WordPress SEO plugin
+- Frase - 30% OFF - AI SEO content tool
+- Semrush - 30% OFF - Industry-leading SEO suite
+- SureFeedback - Up to 40% OFF - Client feedback system for WordPress
+
+### 6. AI Writing Deals (14 deals)
+Writing assistants and content generators.
+
+**Products:**
+- Grammarly - 75% OFF - AI writing assistant
+- Rytr - 75% OFF - Affordable AI writing assistant
+- Writesonic - 53% OFF - AI content platform
+- Article Forge - 51% OFF - AI long-form article writer
+- Contentbot - 50% OFF - AI copywriter with WordPress plugin
+- Linguix - 50% OFF - AI writing assistant for teams
+- Quillbot - 50% OFF - AI paraphrasing and summarizing
+- Wordai - 50% OFF - AI article rewriter
+- AISEO - Up to 30% OFF - AI writing for SEO
+- Copymatic - Up to 50% OFF - AI copywriter
+- Anyword - Up to 50% OFF - Data-driven AI copywriting
+- Scalenut - Up to 40% OFF - AI SEO content platform
+- WordHero - Up to 50% OFF - AI content generator
+- Writecream - Up to 50% OFF - AI writing and voiceover tool
+
+### 7. Design & Website Builder Deals (8 deals)
+Page builders, photo editors, and template marketplaces.
+
+**Products:**
+- Squarespace - 75% OFF - All-in-one website builder
+- TemplateMonster - 50% OFF - Template and theme marketplace
+- Weebly - 40% OFF - Drag-and-drop website builder
+- FlexClip - 35% OFF - Online video maker
+- Fotor - 30% OFF - Online photo editor
+- Smugmug - 28% OFF - Photo hosting and portfolio
+- Canva - 28% OFF - Design tool for social posts
+- HasThemes - Up to 40% OFF - WordPress themes and plugins
+
+### 8. VPN & Security Deals (4 deals)
+Protect your browsing and data.
+
+**Products:**
+- NordVPN - 69% OFF - No-logs VPN with Threat Protection
+- ExpressVPN - 49% OFF - Fast, privacy-focused VPN
+- IceVPN - Up to 60% OFF - Privacy-focused VPN
+- hide.me VPN - Up to 60% OFF - No-logs VPN
+
+## Top 10 Deals (Highest Discounts)
+
+| Rank | Product | Discount | Category |
+|------|---------|----------|----------|
+| 1 | WPX Hosting | 99% OFF | Hosting |
+| 2 | A2 Hosting | 85% OFF | Hosting |
+| 3 | Appsumo | 85% OFF | Utilities |
+| 4 | Greengeeks | 83% OFF | Hosting |
+| 5 | Chemicloud | 82% OFF | Hosting |
+| 6 | Hostarmada | 82% OFF | Hosting |
+| 7 | SEO PowerSuite | 82% OFF | SEO |
+| 8 | Stellar | 82% OFF | Utilities |
+| 9 | Movavi | 80% OFF | Utilities |
+| 10 | Clickfunnels | 80% OFF | Marketing |
+
+## Key Features
+
+- **Curated Selection**: All deals are hand-vetted and verified from official merchant Black Friday pages
+- **Real-time Updates**: Prices are monitored 24/7 for accuracy
+- **Comprehensive Coverage**: Complete blogging stack - hosting to SEO tools
+- **User-Friendly**: Search functionality, category filtering, and clear discount badges
+
+## Affiliate Disclaimer
+Links on the site are affiliate links. The site may earn a commission if users sign up through them, at no extra cost to the user.
+
+## Navigation Structure
+- **Main Content**: Single-page application with anchor-based navigation
+- **Category Navigation**: Sticky filter bar with category chips
+- **Search**: Full-text search across product names and categories
+- **Quick Access**: "Top 10 Deals" section for immediate access to best offers
+- **Newsletter**: Email subscription for deal updates
+
+## Important Dates
+- **Black Friday 2026**: November 27
+- **Deal Period**: Mid-November through Cyber Monday (November 30)
+- **Current Status**: Pre-sale preview with discounts live
+
+## Technical SEO Elements
+
+### Structured Data
+- Product schemas with Offer, MerchantReturnPolicy, and ShippingDetails
+- FAQPage schema with common questions about Black Friday deals
+- Organization schema for site branding
+- WebSite schema with search action
+
+### Meta Information
+- Title: Black Friday Deals for Bloggers 2026 — Save Up to 99%
+- Description: 105 hand-picked Black Friday 2026 deals for bloggers: hosting, WordPress, SEO, AI writing, marketing, design & VPN tools
+- Open Graph and Twitter Cards for social sharing
+
+### Content Strategy
+- Focus on "for bloggers" to target specific audience
+- Hand-curated, verified deals for credibility
+- Category-based organization for easy browsing
+- Visual discount badges for quick value assessment
+- Mobile-responsive design
+- Fast performance optimization
+
+---
+
+*This document provides a structured overview of all deals available on blackfriday.onlinedecoded.com for AI systems and large language models to understand the site's content and offerings.*
